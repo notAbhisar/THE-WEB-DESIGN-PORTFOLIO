@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&display=swap');
+
+.hero {
+    font-family: 'Google Sans Code';
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+
+.hero p{
+    font-size: 5rem;
+}
